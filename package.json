@@ -1,7 +1,9 @@
 {
   "name": "aws-nodeapp",
   "version": "0.1.0",
-  "main": "index.js",
+  "scripts": {
+    "start": "node src"
+  },
   "license": "MIT",
   "dependencies": {
     "express": "^4.15.3"
